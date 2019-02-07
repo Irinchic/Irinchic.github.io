@@ -1,0 +1,103 @@
+﻿
+body{
+	margin:0px;
+	padding:0px;
+	font-family: 'Open Sans', sans-serif;
+
+
+}
+header{position	: absolute;
+	width: 1920px;
+	height: 1080px;
+	background: url(phone.png) no-repeat center top/cover;
+}
+div{
+	box-sizing: border-box;
+}
+
+ .logo {
+	position	: absolute;
+	background-color: white;
+	width: 9%;
+	height: 2,5%;
+	margin-left: 180px;
+}
+
+
+
+
+.title1 {
+	position	: absolute;
+	margin-top		: 323px;
+	left		: 190px;
+	
+	color: #44a09b;
+	 font-weight: bold;
+	 font-size: 32px;
+	 text-transform: uppercase;
+}
+ .text2{position	: absolute;
+	margin-top		: 395px;
+	left		: 190px;
+	
+	color:black;
+	font-weight: lighter;
+	 font-size: 42px;
+	 text-transform: uppercase;
+
+
+}
+.cannot{
+	font-weight: bold;
+	color: blue;
+}
+.rect{margin-top: 688px;
+width: 823px;
+height: 216px;
+  background-color: white;
+	 border-radius: 0  140px  140px 0;
+	 color: #ff8141;
+	 font-weight: 28px;
+	 padding-top: 50px;
+	 padding-left: 190px;
+}
+.button{
+	background-color:#ff8141;
+	color: white;
+	border-radius: 45px;
+	display: block;
+	width: 497px;
+	height: 67px;
+	margin-top: 23px;
+	text-decoration: none;
+	text-align: center;
+	padding-top: 23px;
+	text-transform: uppercase;
+}
+.magnit{
+	margin-top: -620px;
+	margin-left: 940px;
+}
+.scroll{margin-top: -280px;
+	margin-left: 898px;
+	color: white;
+	font-weight: 18px;
+	margin-bottom: 50px;
+
+
+}
+.triangle{
+	     
+	margin-bottom: 80px;
+	margin-left: 920px;
+	
+	width: 0;
+	height: 0;
+	border-top: 50px solid white;
+	border-left: 40px solid transparent;
+	border-right: 40px solid transparent;
+
+}
+
+
+}
